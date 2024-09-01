@@ -1,6 +1,7 @@
 streamlit
-fitz
+PyMuPDF
 langchain
 langchain-google-genai
 langchain-community
 tiktoken
+faiss-cpu
