@@ -112,7 +112,7 @@ def main():
         st.title("Chat with Your Document")
         
         # Chat interface
-        st.subheader("Chatbot")
+        st.subheader("Chatbot Developed By Abdullah Mirza")
         
         # Display chat history
         for i, (q, a) in enumerate(st.session_state.chat_history):
