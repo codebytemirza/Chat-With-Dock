@@ -1,0 +1,6 @@
+streamlit
+fitz
+langchain
+langchain-google-genai
+langchain-community
+tiktoken
